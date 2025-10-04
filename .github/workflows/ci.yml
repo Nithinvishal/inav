@@ -1,3 +1,4 @@
+# Manual trigger
 name: Build firmware
 # Don't enable CI on push, just on PR. If you
 # are working on the main repo and want to trigger

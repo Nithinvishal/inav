@@ -1,0 +1,9 @@
+#pragma once
+
+#define TARGET_NAME "WEACTF405_CUSTOM"
+#define USE_IMU_MPU6500
+#define MPU6500_I2C_INSTANCE I2C1
+#define I2C1_SCL_PIN PB6
+#define I2C1_SDA_PIN PB7
+#define USE_I2C_DEVICE_1
+#define USE_TARGET_CONFIG
